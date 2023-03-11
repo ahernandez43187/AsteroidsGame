@@ -1,0 +1,14 @@
+﻿  main.cpp
+C:\Users\Aristeo\Desktop\AHernandezCPPProject3_1B\SDLGame2\SDLGame2\main.cpp(41,30): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Aristeo\Desktop\AHernandezCPPProject3_1B\SDLGame2\SDLGame2\main.cpp(42,30): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Aristeo\Desktop\AHernandezCPPProject3_1B\SDLGame2\SDLGame2\main.cpp(68,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Aristeo\Desktop\AHernandezCPPProject3_1B\SDLGame2\SDLGame2\main.cpp(109,19): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Aristeo\Desktop\AHernandezCPPProject3_1B\SDLGame2\SDLGame2\main.cpp(110,19): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Aristeo\Desktop\AHernandezCPPProject3_1B\SDLGame2\SDLGame2\main.cpp(219,42): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Aristeo\Desktop\AHernandezCPPProject3_1B\SDLGame2\SDLGame2\main.cpp(239,21): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Aristeo\Desktop\AHernandezCPPProject3_1B\SDLGame2\SDLGame2\main.cpp(245,21): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Aristeo\Desktop\AHernandezCPPProject3_1B\SDLGame2\SDLGame2\main.cpp(251,21): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Aristeo\Desktop\AHernandezCPPProject3_1B\SDLGame2\SDLGame2\main.cpp(257,21): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Aristeo\Desktop\AHernandezCPPProject3_1B\SDLGame2\SDLGame2\main.cpp(301,89): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Aristeo\Desktop\AHernandezCPPProject3_1B\SDLGame2\SDLGame2\main.cpp(301,61): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  SDLGame2.vcxproj -> C:\Users\Aristeo\Desktop\AHernandezCPPProject3_1B\SDLGame2\x64\Debug\SDLGame2.exe
